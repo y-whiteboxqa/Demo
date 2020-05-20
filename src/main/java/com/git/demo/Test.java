@@ -11,4 +11,8 @@ public class Test {
         System.out.println("This is method 1");
     }
     
+    
+    public static void method2() {
+        System.out.println("This is method 2");
+    }
 }
